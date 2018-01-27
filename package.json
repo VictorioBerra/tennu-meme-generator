@@ -1,11 +1,11 @@
 {
   "name": "tennu-meme-generator",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A plugin for the tennu IRC framework, generates memes.",
   "main": "plugin.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/VictorioBerra/tennu-meme-generator.git"
   },
   "scripts": {
     "test": "mocha",
