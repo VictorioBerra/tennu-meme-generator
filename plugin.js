@@ -63,7 +63,7 @@ var TennuMemeGenerator = {
 
                         return request(options)
                             .then(function(res) {
-                                return res;
+                                return JSON.parse(res).url;
                             });
 
                     })
